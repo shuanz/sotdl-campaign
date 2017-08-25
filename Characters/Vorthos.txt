@@ -1,0 +1,25 @@
+Name: Vorthos
+Ancestry: Human
+Strength: 10
+Agility: 10
+Intelect: 10
+Will: 10
+Perception: 10
+Defense: 10
+Health: 10
+Healing Rate: 2
+Size: 1/2 or 1
+Speed: 10
+Power: 0
+Damage: 0
+Insanity: 0
+Corruption: 1
+Languages: Common Tongue
+Background: You murdered someone in cold blood. You start the game with 1 Corruption.
+Personality: You are erratic and unpredictable. You have a hard time keeping your word and tend toward capricious behavior.
+Profession Type: Criminal
+Profession: Spy
+Wealth: Destitute. You are penniless and live on the streets.
+Interesting Thing: Three small white mice that whisper strange things to you while you sleep.
+Positive Traits: Dutiful
+Negative Trait: Deceitful
