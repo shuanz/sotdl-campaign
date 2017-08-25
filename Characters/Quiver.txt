@@ -1,0 +1,25 @@
+Name: Quiver
+Ancestry: Human
+Strength: 10
+Agility: 10
+Intelect: 10
+Will: 10
+Perception: 10
+Defense: 10
+Health: 10
+Healing Rate: 2
+Size: 1
+Speed: 10
+Power: 0
+Damage: 0
+Insanity: 0
+Corruption: 0
+Languages: Common Tongue
+Background: Você realizou uma grande ação e é um herói para as pessoas em sua cidade natal.
+Personality: Você coloca seus interesses e os de seus amigos acima de tudo.
+Profession Type: Criminal
+Profession: Assassino
+Wealth: Destitute
+Interesting Thing: A crystal bottle containing fluid that emits light in a 2-yard radius when the stopper is removed.
+Positive Traits: Dependable
+Negative Trait: Arrogant
