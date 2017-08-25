@@ -1,0 +1,27 @@
+Name: Sentinel
+Ancestry: Clockwork
+Strength: 9
+Agility: 8
+Intelect: 9
+Will: 9
+Perception: 9
+Defense: 8
+Health: 9
+Healing Rate: 2
+Size: 1
+Speed: 8
+Power: 0
+Damage: 0
+Insanity: 0
+Corruption: 0
+Languages: Common Tongue
+Background: Your soul was plucked from the Underworld before it could forget its former life. Start the game with 1d6 Insanity and add an extra profession.
+Personality: You didn't ask for this existence, but you make the most of it while you have it.
+Profession Type: Religious. You belong to a religious institution.
+Profession: Devotee. You are a strong believer and follower of your faith's tenets. You can read and write one language you know.
+Profession Type: Criminal
+Profession: Burglar
+Wealth: Destitute. You are penniless and live on the streets.
+Interesting Thing: A jar of paint that refills itself once each day at dawn.
+Positive Traits: Imaginative
+Negative Trait: Rude
