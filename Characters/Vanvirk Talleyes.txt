@@ -1,0 +1,25 @@
+Name: Vanvirk Talleyes
+Ancestry: Human
+Strength: 10
+Agility: 10
+Intelect: 10
+Will: 10
+Perception: 10
+Defense: 10
+Health: 10
+Healing Rate: 2
+Size: 1/2 or 1
+Speed: 10
+Power: 0
+Damage: 0
+Insanity: 0
+Corruption: 0
+Languages: Common Tongue
+Background: You spent 1d6 years as a prisoner in a dungeon.
+Personality: "You are cruel, wicked, and self-serving. You enjoy making others suffer.
+Profession Type: Criminal
+Profession: Thug
+Wealth: Destitute. You are penniless and live on the streets.
+Interesting Thing: A bottle labeled 'Eye of Newt.'
+Positive Traits: Determined
+Negative Trait: Sullen
