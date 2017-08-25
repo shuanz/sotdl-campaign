@@ -1,0 +1,25 @@
+Name: Ragdir
+Ancestry: Dwarf
+Strength: 10
+Agility: 9
+Intelect: 10
+Will: 10
+Perception: 10
+Defense: 9
+Health: 10
+Healing Rate: 2
+Size: 1/2
+Speed: 8
+Power: 0
+Damage: 0
+Insanity: 0
+Corruption: 0
+Languages: You speak the Common Tongue, and you speak, read, and write Dwarfish.
+Background: You fought against the creatures you hate and lost.
+Personality: Your honor is your life. You would never do anything to bring shame to your people.
+Profession Type: Criminal
+Profession: Saboteur
+Wealth: Destitute. You are penniless and live on the streets.
+Interesting Thing: A pair of spectacles that sometimes let you see through up to 1 inch of solid rock.
+Positive Traits: Empathetic
+Negative Trait: Lazy
